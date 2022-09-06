@@ -1,0 +1,4 @@
+Php view: 
+- can define variables in view 
+- unless = ifnot - emmty - isset 
+-> add end in the end of statement => for => endfor
